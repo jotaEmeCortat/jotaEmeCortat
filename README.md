@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+##LinkedIn: www.linkedin.com/in/joão-marcelo-cortat-3296661b7
 <!--
 **jotaEmeCortat/jotaEmeCortat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
