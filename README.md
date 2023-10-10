@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React and Rails**
 
-- 📫 How to reach me **jmcortat@gmail.com**
-
 - ⚡ Fun fact **coach of water polo 🤽‍♀️**
 
 <h3 align="left">Connect with me:</h3>
