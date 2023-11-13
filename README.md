@@ -18,6 +18,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jotaemecortat&show_icons=true&locale=en&layout=compact" alt="jotaemecortat" /></p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jotaemecortat&show_icons=true&locale=en" alt="jotaemecortat" /></p> -->
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jotaemecortat&" alt="jotaemecortat" /></p>
