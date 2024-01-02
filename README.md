@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **React and Rails**
 
-- ⚡ Fun fact **coach of water polo 🤽‍♀️**
-
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/jo%C3%A3o-marcelo-cortat-3296661b7/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
